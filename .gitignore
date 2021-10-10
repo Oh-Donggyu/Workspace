@@ -1,3 +1,16 @@
+# ignore files
+.vscode/
+AdvancedPython
+Boostcamp
+distributed_system
+high_performance_python_2e
+practice
+lassl
+Pytorch-Project-Template
+RECENT*
+Transformer
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
